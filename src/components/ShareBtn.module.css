@@ -1,0 +1,17 @@
+.p2 svg{
+    position: relative;
+    bottom:450px;
+    left:1320px;
+}
+
+.p2 {
+    border: none;         
+    outline: none;        
+    background: none;      
+    padding: 0;            
+    display: inline-flex;  
+    align-items: center;   
+    justify-content: center; 
+    cursor: pointer;      
+  }
+  

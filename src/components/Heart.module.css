@@ -1,0 +1,14 @@
+.hrt{
+    cursor: pointer;
+    position: relative;
+    bottom:419px;
+    left:1365px;
+}
+
+.hrt svg {
+    width: 30px;
+    height: 30px;
+    color:red;
+}
+
+
